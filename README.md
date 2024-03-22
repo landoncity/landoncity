@@ -5,7 +5,7 @@
 - <b>Conduct a security audit </b>
   - [Conduct a security audit](https://github.com/landoncity/ConductSecurityAudit)
 - <b>Use the NIST Cybersecurity Framework to respond to a security incident </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [NIST Cybersecurity Framework](https://github.com/landoncity/UseTheNISTCybersecurityFrameworkToRespondToaSecurityIncident)
 - <b>Use Linux commands to manage file permissions </b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
