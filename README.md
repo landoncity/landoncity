@@ -10,9 +10,8 @@
   - [Use Linux commands to manage file permissions](https://github.com/landoncity/UseLinuxCommandsToManageFilePermissions)
 
 - <b>Apply filters to SQL queries </b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Applying filters to SQL queries](https://github.com/landoncity/ApplyFiltersToSQLqueries)
+ 
 - <b>Analyze a vulnerable system for a small business </b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
