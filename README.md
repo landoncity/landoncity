@@ -13,7 +13,7 @@
   - [Applying filters to SQL queries](https://github.com/landoncity/ApplyFiltersToSQLqueries)
  
 - <b>Analyze a vulnerable system for a small business </b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Analyze a vulnerable system for a small business](https://github.com/landoncity/IdentifyingAnIncidentHandlersJournal)
 
 - <b>Document an incident with an incident handler's journal </b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
