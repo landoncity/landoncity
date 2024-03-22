@@ -19,17 +19,13 @@
   - [Using an incident handler's journal](https://github.com/landoncity/Document-an-incident-with-an-incident-handler-s-journal)
  
 -  <b>Update a file through a Python algorithm </b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Update a file through a Python algorithm](https://github.com/landoncity/UpdateAFileThroughAlgorithm)
 
 
 
 <h2>📂 Certifications</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
