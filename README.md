@@ -7,10 +7,8 @@
 - <b>Use the NIST Cybersecurity Framework to respond to a security incident </b>
   - [NIST Cybersecurity Framework](https://github.com/landoncity/UseTheNISTCybersecurityFrameworkToRespondToaSecurityIncident)
 - <b>Use Linux commands to manage file permissions </b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Use Linux commands to manage file permissions](https://github.com/landoncity/UseLinuxCommandsToManageFilePermissions)
+
 - <b>Apply filters to SQL queries </b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
