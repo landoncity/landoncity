@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Conduct a security audit </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Conduct a security audit](https://github.com/landoncity/ConductSecurityAudit)
 - <b>Use the NIST Cybersecurity Framework to respond to a security incident </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Use Linux commands to manage file permissions </b>
