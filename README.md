@@ -18,7 +18,7 @@
 - <b>Document an incident with an incident handler's journal </b>
   - [Using an incident handler's journal](https://github.com/landoncity/Document-an-incident-with-an-incident-handler-s-journal)
  
--  <b>Update a file through a Python algorithm </b>
+- <b>Update a file through a Python algorithm </b>
   - [Update a file through a Python algorithm](https://github.com/landoncity/UpdateAFileThroughAlgorithm)
 
 
