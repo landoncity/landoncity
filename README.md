@@ -16,7 +16,7 @@
   - [Analyze a vulnerable system for a small business](https://github.com/landoncity/IdentifyingAnIncidentHandlersJournal)
 
 - <b>Document an incident with an incident handler's journal </b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Using an incident handler's journal](https://github.com/landoncity/Document-an-incident-with-an-incident-handler-s-journal)
  
 -  <b>Update a file through a Python algorithm </b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
