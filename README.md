@@ -25,7 +25,7 @@
 
 <h2>📂 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Cybersecurity Certificate](https://www.credly.com/badges/e54b7d9d-af23-4b5b-99a7-9e712f018327/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
